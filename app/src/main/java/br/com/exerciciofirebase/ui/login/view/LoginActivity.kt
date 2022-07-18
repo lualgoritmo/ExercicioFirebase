@@ -1,9 +1,8 @@
 package br.com.exerciciofirebase.ui.login.view
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import br.com.exerciciofirebase.R
+import androidx.appcompat.app.AppCompatActivity
 import br.com.exerciciofirebase.databinding.ActivityLoginBinding
 import br.com.exerciciofirebase.ui.register.view.RegisterActivity
 
@@ -17,7 +16,8 @@ class LoginActivity : AppCompatActivity() {
             initRegister()
         }
     }
+
     private fun initRegister() {
-        startActivity(Intent(this,RegisterActivity::class.java))
+        startActivity(Intent(this, RegisterActivity::class.java))
     }
 }
