@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860873244711",
+    "project_id": "exerciciofirebase-1fbe3",
+    "storage_bucket": "exerciciofirebase-1fbe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860873244711:android:f8c158f0c57c2f66b08e02",
+        "android_client_info": {
+          "package_name": "br.com.exerciciofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860873244711-78h39dbakk9ftn1b782ku69s53mvb0ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQpzgwTl-woFhWmzCkDuSUw2IqI6L9Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860873244711-78h39dbakk9ftn1b782ku69s53mvb0ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
