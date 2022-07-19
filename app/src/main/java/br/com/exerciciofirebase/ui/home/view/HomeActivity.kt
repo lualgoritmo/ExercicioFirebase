@@ -13,6 +13,7 @@ class HomeActivity : AppCompatActivity() {
     private lateinit var binding: ActivityHomeBinding
     private val viewModel: HomeViewModel by lazy {
         ViewModelProvider(this)[HomeViewModel::class.java]
+        //FOI FEITO, MAS FALTA TERMINAR
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
