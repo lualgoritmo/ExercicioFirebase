@@ -42,7 +42,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:hint="Digite a sua senha"
-        android:inputType="text"
+        android:inputType="textPassword"
         android:textSize="@dimen/default_size_16"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
